@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
         <div className="bg">
-          测试页面123456有修改了
+          测试页面（第一次修改）
         </div>
         <img className="img" src={logo} alt=""/>
      </div>
