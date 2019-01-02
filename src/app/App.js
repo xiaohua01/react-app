@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div>
         <div className="bg">
-          测试页面
+          测试页面123456
         </div>
         <img className="img" src={logo} alt=""/>
      </div>
